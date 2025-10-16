@@ -1,4 +1,4 @@
-# 🛍️ Retail Sales Time Series Analysis
+# 🛍️ Retail Sales Analysis
 
 ![Python](https://img.shields.io/badge/Python-3.8%252B-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%2520Analysis-orange)
@@ -47,7 +47,6 @@ pip install -r requirements.txt
 
 Place your CSV files in the project directory.
 Ensure your dataset includes at least the following columns:
-
 Date, Product, Region, Sales, Revenue
 
 4. Run the analysis
@@ -85,12 +84,6 @@ Scikit-learn — Model evaluation metrics
 Quarterly sales growth trends and regional performance comparisons
 Seasonal peaks in product categories
 Predicted revenue trajectory based on historical data
-
-📜 License
-
-This project is licensed under the MIT License.
-See the LICENSE
- file for more details.
 
 👩‍💻 Author
 
