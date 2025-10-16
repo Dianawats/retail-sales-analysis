@@ -32,23 +32,6 @@ It demonstrates **professional data analysis and forecasting techniques** for in
 
 ---
 
-## 📁 Project Structure
-retail-sales-analysis/
-│
-├── main.py # Main analysis orchestrator
-├── data_loader.py # Data loading and preparation
-├── data_cleaner.py # Data cleaning and preprocessing
-├── exploratory_analysis.py # Exploratory data analysis and visualization
-├── time_series_analysis.py # Trend and seasonal decomposition
-├── revenue_analysis.py # Product/region performance analysis
-├── forecasting.py # Forecasting models and evaluation
-├── insights.py # Business insights and reporting
-├── requirements.txt # Project dependencies
-└── README.md # Project documentation
-
-
----
-
 ## 🛠️ Installation & Usage
 
 ### 1. Clone the repository
